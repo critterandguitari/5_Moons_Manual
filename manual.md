@@ -59,15 +59,19 @@ Start/Stop (I) starts and stops playback.
 
 By default, 5 Moons will play song from the beginning, and stop playback once all tracks have reached their end. To hear the song as a loop, toggle Playback Loop On/Off (H). This can be activated during playback or when 5 Moons is stopped.
 
+### Volume Control
+
+5 Moons has two forms of volume control. The Output Volume (D) controls the overall output level. The verticle sliders control individual Track Volume (N).
+
 ### Record
 
 Set a track to record by pressing Record Enable (O). Recording starts when Start/Stop is toggled On. If 5 Moons is already playing, recording starts once a Record Enable button is pressed. Only one track can be recorded to at a time. 
 
 ### Bouncing Down
 
-Press Bounce Down (G) to record the current audio to a single track on a new song. Bouncing starts the moment the button is pressed, and ends when either Start/Stop is pressed, or when Bounce Down is pressed again. You will then be taken to the new song. One green LED will appear above the left-most track. Adjust the volume of this track to hear your sounds (if the volume of track was turned down before or during the bounce down, you won't hear your sound without adjusting the slider back up).
+Press Bounce Down (G) to record the current audio to a single track on a new song. Bouncing starts the moment the button is pressed, and ends when either Start/Stop is pressed, or when Bounce Down is pressed again. You will then be taken to the new song. One green LED will appear above the left-most track. Adjust the volume of this track to hear your sounds (if this track was turned down before or during the bounce down, you won't hear your sound without adjusting the slider back up).
 
-Note: When bouncing, Previous Song, New Song, and Next Song buttons are disabled.
+Note: When bouncing, Previous Song, New Song, and Next Song buttons are disabled. Track Volumes are reflected in Bounce Downs, but Output Volume level is not.
 
 ### Navigating Songs
 
@@ -80,6 +84,8 @@ Let's say you like the songs you've made and would like to hear them on a comput
 While 5 Moons is on and connected to the computer, press and hold all five track buttons simultaniously (this might require two hands). The LEDs will begin a color cycle, indicating that 5 Moons is in Disk Mode.
 
 In Disk Mode, 5 Moons itself is no longer in multitrack recording mode. The buttons will not have their normal functions. Instead each will emit a test tone when pressed. This is purely for testing procedures. Do not be alarmed if you press a button and hear a beep. 
+
+### File Management in Disk Mode
 
 On your computer, open a file browser (Finder for Mac, Explorer for Windows). In the disks, select '5MOONS.' The 'Songs' folder will have show the song currently on 5 Moons in numbered folders. Each song has a WAV file for each track that has audio recorded to it. 
 
