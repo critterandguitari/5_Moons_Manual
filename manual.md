@@ -1,78 +1,99 @@
 # 5 Moons User Manual
 
-Five moons is a multi track recorder
+5 Moons is a multitrack recorder! Use this manual to help record and play back songs!
 
 ## Getting Started
 
-You probably want to get started right away! Here are a few steps to use   
-1. Connect power  
-2. turn on  
-3. connect audio out  
-4. connect audio in  
-5. record a sound  
-6. play it back
+### Safety First!
+As with all audio recording devices, make all cable connections and slowly turn up the volume. This will avoid unexpected bursts of sound from your speakers or headphones. Protect your ears!
+
+### Quick Setup
+You probably want to get started right away! Here are a few steps to get you making music.
+   
+1. Connect the USB power supply to an outlet, then to the USB-C jack on 5 Moons' rear panel.  
+2. Power on by pressing and holding the top-right button until the LEDs flash.
+3. Connect a 3.5mm audio cable to the output jack on the top left of the front panel.  
+4. Connect a 3.5mm audio cable to the input jack next to the output jack.  
+5. Record enable a track by pressing one of the buttons on the bottom row, and turn up the slider above it.
+6. Press the play button above the middle slider.
+7. Make some noise!
+8. Press the play button again to play back your sound.
 
 ## The front panel
 
-![image](./5moonsRearSticker.png) 
+Each jack, button, slider, and LED has a corresponding letter. We'll use these letters frequently in this manual. This chart with labels can be conveniently found on 5 Moons' bottom side.
 
-Each jack, button, slider, and LED has a corresponding letter. We'll use these letters frequently in this manual. This chart with labels can be conveniently found on the bottom side of the 5 Moons.
+![image](./5moonsRearSticker.png) 
 
 ## Instructions
 
 ### Power
 
-First connect the USB-C power adapter. Connect the adapter to a power outlet, and then connect its plug to the leftmost port on the back of the 5 Moons. 
+First connect the USB-C power adapter. Connect the adapter to a power outlet, and then connect its plug to the leftmost port on the back of 5 Moons. 
 
-Once the 5 Moons is connected to power, press the top-right button. The LEDs will change color and then some will be green. 
+Once 5 Moons is connected to power it will automatically power on. The LEDs (M) will illuminate, which means the unit is powered. If 5 Moons is already connected to power, press the Power Switch (E) for one second, or until the LEDs turn on. 
 
-The same button is used to power down. Hold the button for a few seconds and see the LEDs change color. Don't worry! Everything you've recorded is saved.
+The same button is used to power down. Hold the button for a second, or until the LEDs turn purple. Everything you've recorded is saved.
 
-### 1 sound output from the five moons
+![image](./5moonsReadJacks.png)
 
-5 Moons outputs audio from the top-left 3.5mm audio jack. Connect a mono 3.5mm cable to speakers or an amplifier. 
+### Sound Output
 
-Audio format: 48 kHz, 16-bit.
-
-### 2 sound input to the five moons
-
-Second to top left input 
-
-Press a track button to record or get ready to record.
-
-Press C to monitor.
-
-Hold F to meter. 
+5 Moons outputs audio from the top-left 3.5mm audio Output Jack (A). Connect a mono 3.5mm cable to speakers or an amplifier. 
 
 Audio format: 48 kHz, 16-bit.
 
-### 3 transport
+### Sound Input
 
-The play button is here. Play straight or in a loop. Turn looping on while it's playing.
+5 Moons inputs audio from the second-to-top-left 3.5mm audio Input Jack (B). Connect a cable to an instrument, synthesizer, mixer, microphone, electric guitar... 
 
-### 4 bounce downs 
+Toggle Monitor On/Off (C) to hear incoming audio. 
 
-Press this button to bounce down. Bouncing starts the moment the button is pressed, and ends once the play button. Your bounce will be playing in its new song. You will see one green LED on the left-most track. Adjust the volume of this track to hear your sounds (if the volume of track was turned down before or during the bounce down, you won't hear your sound without adjusting the slider).
-When bouncing, song buttons are disabled.
+Hold Input VU Meter On/Off (F) to see the incoming audio level and to prevent clipping. 
 
-### 5 using five moons as a hard drive 
+Audio format: 48 kHz, 16-bit.
 
-I bet you like the songs you've made and would like to hear them on a computer or immediately send to a mastering engineer. If the 5 Moons is playing or recording, press the stop button. If the 5 Moons is powered from a power outlet, turn it off. If it is powered from a computer's usb port, you're halfway there! Connect a USB-C cable (like the one used to power the unit) to a computer's USB port). While 5 Moons is on, not playing, and connected to the computer, press and hold all five track buttons simultaniously 
+### Start/Stop (Transport)
 
-### 6 jumping through songs
+Start/Stop (I) starts and stops playback. 
 
+By default, 5 Moons will play straight through recordings from the beginning. To hear the recording(s) as a loop, toggle Playback Loop On/Off (H). This can be activated during playback or when 5 Moons is stopped.
 
-5 Moons comes with some songs on it that you can navitage through. Have a listen to see what you can make with this puppy. The three buttons J and L to navigate back one song, or forward one song. Use K to start a new song. 
+### Record
 
-Can't jump through songs when bouncing!
+Set a track to record by pressing Record Enable (O). Recording starts when Start/Stop is toggled On. If 5 Moons is already playing, recording starts once a Record Enable button is pressed. Only one track can be recorded to at a time. 
 
-### 7 wifi
+### Bouncing Down
 
-Owen knows what this does. I think you can file manage wirelessly. Ask him owen@critterandguitari.com
+Press Bounce Down (G) to record the current audio to a single track on a new song. Bouncing starts the moment the button is pressed, and ends when either Start/Stop is pressed, or when Bounce Down is pressed again. You will then be taken to the new song. One green LED will appear above the left-most track. Adjust the volume of this track to hear your sounds (if the volume of track was turned down before or during the bounce down, you won't hear your sound without adjusting the slider back up).
 
-### 8 upload your own song and start from there
+Note: When bouncing, Previous Song, New Song, and Next Song buttons are disabled.
+
+### Navigating Songs
+
+5 Moons comes with some songs on it that you can navitage through. Have a listen to some examples of what you can make. Select the Next Song (J), Previous Song (L), or start fresh with a New Song (K). As more songs are made, there will be more songs to jump through with these buttons. When you've navigated to the newest song and press Next Song, you will be brough back to the first song in the list.
+
+### Disk Mode 
+
+Let's say you like the songs you've made and would like to hear them on a computer. If 5 Moons is powered from a power outlet, turn it off. If it is powered from a computer's usb port, you're halfway there! Connect a USB-C cable (like the one used to power the unit) to a computer's USB port). 
+
+While 5 Moons is on and connected to the computer, press and hold all five track buttons simultaniously (this might require two hands). The LEDs will begin a color cycle, indicating that 5 Moons is in Disk Mode.
+
+In Disk Mode, 5 Moons itself is no longer in multitrack recording mode. The buttons will not have their normal functions. Instead each will emit a test tone when pressed. This is purely for testing procedures. Do not be alarmed if you press a button and hear a beep. 
+
+On your computer, open a file browser (Finder for Mac, Explorer for Windows). In the disks, select '5MOONS.' The 'Songs' folder will have show the song currently on 5 Moons in numbered folders. Each song has a WAV file for each track that has audio recorded to it. 
+
+![image](./5moonsDiskMode.png)  
+
+**Important**: When you are done using Disk Mode, first eject the 5MOONS drive from your computer as you would for a standard USB drive or external hard drive. 
+
+Exit Disk Mode by holding all five Record Enable buttons at once.
+
+### Loading Your Own Songs
 
 Just as you can move songs and files from 5 Moons to a computer, you can move songs and files from a computer to 5 Moons. Use something you've already made as a starting point for a new 5 Moons creation. 
+
+In the 5 Moons disk in your file browser, open the 'songs' folder. Create a new folder following the same naming convention as the others (the next number in sequence). Add up to 5 WAV files to that folder, renamed 1.wav, 2.wav, etc...
 
 ## Setup Examples
 
@@ -102,3 +123,48 @@ Tour got you beat? Skip studio day and hang on the couch with your friends. Conn
 
 ![image](./5moonsInLivingRoom.png) 
 
+## Tech Specs:
+
+### Audio Settings
+
+5 Moons records and plays back audio at 16-bit 48kHz. Recorded audio files are in the WAV format. 
+
+### MicroSD Card
+
+The operating system and all recordings are stored on the 5 Moons' microSD card. Each unit comes with an 8 GB card installed. This card can be inserted into a Windows computer to browse files and make changes, just like in Disk Mode. This feature is not supported on Mac, but using 5 Moons in Disk Mode will accomplish the same task. 
+
+There is a 1 GB partition for the operating system and a 7 GB partition for audio recordings. At 16-bit 48khz, that's about 20 hours of record time. 
+
+If a larger partition for audio recordings is desired, you may use a larger microSD card as long as it is first flashed with the operating system. 5 Moons will detect the remaining space upon its first boot up. The remaining space will become the new audio recording partition. 
+
+### Burning microSD Card Disk Image
+
+Burning a new disk image on the micro SD card will reset your 5 Moons to the factory state. This is useful to update to the latest 5 Moons OS, or to fix a problem with the microSD card.
+
+This will completely wipe the microSD card clean, so make sure to backup anything on there that you need. See **Disk Mode** for information on downloading your files or moving them to a USB drive. You can also use a brand new card if you wanted to keep your old OS available.
+
+Follow these steps to burn a new microSD card:
+
+Download the microSD card disk image to your computer:
+
+Current OS release: 5 Moons v1.0. Requires 8GB or larger microSD card.
+
+Download the flasher program to your computer: https://www.balena.io/etcher/
+
+Power down the 5 Moons.
+
+Locate the thin slit in the rear of the enclosure (between the USB-C port and the USB 3.0 port.)
+
+Use a pin, paperclip, guitar pick, or another microSD card to press in on the black microSD card to eject it and it will spring out gently.
+
+Insert microSD into your computer (you may need an adapter or card reader)
+
+Use the Etcher program to burn the OS file on to the SD Card. When Etcher is finished your computer may display a message similar to 'This disk is not readable.' This message is normal and you may click 'Eject' to proceed.
+
+Remove the microSD card from your computer and reinsert it in 5 Moons. Make sure that the microSD card is going into the socket on the circuit board, as it is easy to drop it into the device. If you can wiggle it a lot, it probably is not in socket. Use the same tool to press it in until you hear/feel a 'click.'
+
+Restart the 5 Moons to confirm your new card is working.
+
+### USB 3.0 Jack
+
+There is a USB 3.0 jack on the rear next to the microSD card slot. This jack does not have a specific purpose at the time of this release. Stay tuned for future OS updates.
