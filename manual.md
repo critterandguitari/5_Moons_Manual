@@ -19,9 +19,9 @@ You probably want to get started right away! Here are a few steps to get you mak
 7. Make some noise!
 8. Press the play button again to play back your sound.
 
-## The front panel
+## The Front Panel
 
-Each jack, button, slider, and LED has a corresponding letter. We'll use these letters frequently in this manual. This chart with labels can be conveniently found on 5 Moons' bottom side.
+Each jack, button, slider, and LED has a corresponding letter. We'll use these letters frequently in this manual. This chart with labels can be conveniently found on 5 Moons' bottom side:
 
 ![image](./5moonsRearSticker.png) 
 
@@ -33,7 +33,7 @@ First connect the USB-C power adapter. Connect the adapter to a power outlet, an
 
 Once 5 Moons is connected to power it will automatically power on. The LEDs (M) will illuminate, which means the unit is powered. If 5 Moons is already connected to power, press the Power Switch (E) for one second, or until the LEDs turn on. 
 
-The same button is used to power down. Hold the button for a second, or until the LEDs turn purple. Everything you've recorded is saved.
+The same button is used to power down. Hold the button for one second, or until the LEDs turn purple. Don't fret! Everything you've recorded is saved.
 
 ![image](./5moonsReadJacks.png)
 
@@ -57,7 +57,7 @@ Audio format: 48 kHz, 16-bit.
 
 Start/Stop (I) starts and stops playback. 
 
-By default, 5 Moons will play straight through recordings from the beginning. To hear the recording(s) as a loop, toggle Playback Loop On/Off (H). This can be activated during playback or when 5 Moons is stopped.
+By default, 5 Moons will play song from the beginning, and stop playback once all tracks have reached their end. To hear the song as a loop, toggle Playback Loop On/Off (H). This can be activated during playback or when 5 Moons is stopped.
 
 ### Record
 
