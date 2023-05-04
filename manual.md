@@ -151,25 +151,18 @@ This will completely wipe the microSD card clean, so make sure to backup anythin
 
 Follow these steps to burn a new microSD card:
 
-Download the microSD card disk image to your computer:
+1. Download the microSD card disk image to your computer: 
+<br> [https://cgdiskimages.nyc3.digitaloceanspaces.com/5moons-v1.img.zip](https://cgdiskimages.nyc3.digitaloceanspaces.com/5moons-v1.img.zip)
+<br> Current OS release: 5 Moons v1.0. Requires 8GB or larger microSD card.
 
-Current OS release: 5 Moons v1.0. Requires 8GB or larger microSD card.
-
-Download the flasher program to your computer: https://www.balena.io/etcher/
-
-Power down the 5 Moons.
-
-Locate the thin slit in the rear of the enclosure (between the USB-C port and the USB 3.0 port.)
-
-Use a pin, paperclip, guitar pick, or another microSD card to press in on the black microSD card to eject it and it will spring out gently.
-
-Insert microSD into your computer (you may need an adapter or card reader)
-
-Use the Etcher program to burn the OS file on to the SD Card. When Etcher is finished your computer may display a message similar to 'This disk is not readable.' This message is normal and you may click 'Eject' to proceed.
-
-Remove the microSD card from your computer and reinsert it in 5 Moons. Make sure that the microSD card is going into the socket on the circuit board, as it is easy to drop it into the device. If you can wiggle it a lot, it probably is not in socket. Use the same tool to press it in until you hear/feel a 'click.'
-
-Restart the 5 Moons to confirm your new card is working.
+1. Download the flasher program to your computer: https://www.balena.io/etcher/
+1. Power down 5 Moons. Disconnect the USB-C cable. 
+1. Locate the thin slit in the rear of the enclosure (between the USB-C port and the USB 3.0 port.)
+1. Eject the microSD card: Use a pin, paperclip, guitar pick, or another microSD card to first press the black microSD card in, then let spring out gently.
+1. Insert microSD into your computer (you may need an adapter or card reader)
+1. Use the Etcher program to burn the OS file on to the SD Card. When Etcher is finished your computer may display a message similar to 'This disk is not readable.' This message is normal and you may click 'Eject' to proceed.
+1. Remove the microSD card from your computer and reinsert it in 5 Moons. Make sure that the microSD card is going into the socket on the circuit board, as it is easy to drop it into the device. If you can wiggle it a lot, it probably is not in socket. Use the same tool to press it in until you hear/feel a 'click.'
+1. Restart 5 Moons to confirm your new card is working. The first time it boots from a newly flashed SD card, the OS will resize the storage partition to the available space on the card. The LEDs will be red during this brief process. 
 
 ### USB 3.0 Jack
 
