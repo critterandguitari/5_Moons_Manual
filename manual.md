@@ -25,7 +25,7 @@ Each jack, button, slider, and LED has a corresponding letter. We'll use these l
 
 ![image](./5moonsRearSticker.png) 
 
-## Instructions
+## Using Your 5 Moons
 
 ### Power
 
@@ -76,6 +76,9 @@ Note: When bouncing, Previous Song, New Song, and Next Song buttons are disabled
 ### Navigating Songs
 
 5 Moons comes with some songs on it that you can navitage through. Have a listen to some examples of what you can make. Select the Next Song (J), Previous Song (L), or start fresh with a New Song (K). As more songs are made, there will be more songs to jump through with these buttons. When you've navigated to the newest song and press Next Song, you will be brough back to the first song in the list.
+
+## File Management 
+
 
 ### Disk Mode 
 
@@ -129,7 +132,7 @@ Tour got you beat? Skip studio day and hang on the couch with your friends. Conn
 
 ![image](./5moonsInLivingRoom.png) 
 
-## Tech Specs:
+## Specifications
 
 ### Audio Settings
 
