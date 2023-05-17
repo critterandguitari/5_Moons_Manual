@@ -94,6 +94,11 @@ On your computer, open a file browser (Finder for Mac, Explorer for Windows). In
 
 ![image](./5moonsDiskMode.png)  
 
+**Important**: 5 Moons is particular about the numbering of *Song* folder and file names found in the storage partition. If you add or remove folders and/or files please note the following:
+ 
+* Song Folders: Folder numbers must be continous: *1, 2, 3, ...*. A list of folders such as: *2, 4, 17* or *7, 8, 9, 11* can cause issues.
+* Song Files: File names should only be 1.wav, 2.wav, 3.wav, 4.wav, 5.wav. Names that deviate from this convention will not be heard.
+
 **Important**: When you are done using Disk Mode, first eject the 5MOONS drive from your computer as you would for a standard USB drive or external hard drive. 
 
 Exit Disk Mode by holding all five Record Enable buttons at once.
@@ -132,7 +137,7 @@ Tour got you beat? Skip studio day and hang on the couch with your friends. Conn
 
 ![image](./5moonsInLivingRoom.png) 
 
-## Specifications
+## Specifications	
 
 ### Audio Settings
 
