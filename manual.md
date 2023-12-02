@@ -151,7 +151,11 @@ There is a 1 GB partition for the operating system and a 7 GB partition for audi
 
 If a larger partition for audio recordings is desired, you may use a larger microSD card as long as it is first flashed with the operating system. 5 Moons will detect the remaining space upon its first boot up. The remaining space will become the new audio recording partition. 
 
-### Burning microSD Card Disk Image
+### USB 3.0 Jack
+
+There is a USB 3.0 jack on the rear next to the microSD card slot. This jack does not have a specific purpose at the time of this release. Stay tuned for future OS updates.
+
+## Burning microSD Card Disk Image
 
 Burning a new disk image on the micro SD card will reset your 5 Moons to the factory state. This is useful to update to the latest 5 Moons OS, or to fix a problem with the microSD card.
 
@@ -171,7 +175,3 @@ Follow these steps to burn a new microSD card:
 1. Use the Etcher program to burn the OS file on to the SD Card. When Etcher is finished your computer may display a message similar to 'This disk is not readable.' This message is normal and you may click 'Eject' to proceed.
 1. Remove the microSD card from your computer and reinsert it in 5 Moons. Make sure that the microSD card is going into the socket on the circuit board, as it is easy to drop it into the device. If you can wiggle it a lot, it probably is not in socket. Use the same tool to press it in until you hear/feel a 'click.'
 1. Restart 5 Moons to confirm your new card is working. The first time it boots from a newly flashed SD card, the OS will resize the storage partition to the available space on the card. The LEDs will be red during this brief process. 
-
-### USB 3.0 Jack
-
-There is a USB 3.0 jack on the rear next to the microSD card slot. This jack does not have a specific purpose at the time of this release. Stay tuned for future OS updates.
